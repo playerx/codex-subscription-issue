@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "graphql-ws": "^5.16.0",
+    "ts-node": "^10.9.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2"
+  }
+}
